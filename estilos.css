@@ -1,0 +1,9 @@
+body {
+    background-color: pink;
+}
+.boton {
+    background-color: powderblue;
+    color: black;
+    padding: 30px;
+    border: 3px;
+}
